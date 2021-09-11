@@ -32,7 +32,7 @@ export default function Table({searchTerm}) {
   useEffect(() => {
       const url = searchTerm === ""
       ? "https://hn.algolia.com/api/v1/search_by_date?tags=(story,poll)"
-      : `http://hn.algolia.com/api/v1/search?query=${searchTerm}`;
+      : `https://hn.algolia.com/api/v1/search?query=${searchTerm}`;
 
 
       const getStoriesData = async () => {
