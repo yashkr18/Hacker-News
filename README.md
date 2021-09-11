@@ -1,4 +1,4 @@
-# Project is live [here](https://613d25ba51f3c53ce863353f--naughty-lewin-cc520d.netlify.app/postDetail)
+# Project is live [here](https://613d25ba51f3c53ce863353f--naughty-lewin-cc520d.netlify.app/)
 
 # Getting Started with Create React App
 
