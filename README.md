@@ -1,3 +1,5 @@
+# Project is live [here](https://613d25ba51f3c53ce863353f--naughty-lewin-cc520d.netlify.app/postDetail)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
